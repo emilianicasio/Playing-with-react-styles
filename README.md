@@ -1,4 +1,6 @@
-# Playing-with-react-styles
+# React-card-component
+
+Playing with react styles 🎨
 
 Card component usign React and Css
 
